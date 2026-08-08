@@ -2,27 +2,27 @@
 
 ## 📌 Project Overview
 
-Data Science Final Project dari **Sanbercode Bootcamp Python Data Science Batch 36**.
+A Data Science Final Project from **Sanbercode Bootcamp Python Data Science Batch 36**.
 
-Project ini bertujuan mengidentifikasi negara yang paling membutuhkan bantuan dari **HELP International** dengan menggunakan metode **K-Means Clustering** berdasarkan indikator `Pendapatan` dan `GDPperkapita`.
+This project aims to identify countries that are most in need of assistance from **HELP International** using **K-Means Clustering** based on the `Pendapatan` and `GDPperkapita` indicators.
 
 ## 🔎 Analysis Process
 
 * Exploratory Data Analysis (EDA)
 * Feature Selection
 * Data Cleaning & Outlier Handling
-* Data Scaling dengan `StandardScaler`
-* Penentuan jumlah cluster menggunakan **Elbow Method & Silhouette Score**
-* K-Means Clustering dengan **3 cluster**
-* Analisis hasil clustering dan rekomendasi negara
+* Data Scaling using `StandardScaler`
+* Determining the number of clusters using the **Elbow Method & Silhouette Score**
+* K-Means Clustering with **3 clusters**
+* Clustering Result Analysis and Country Recommendations
 
 ## 🌍 Result
 
-Cluster dengan nilai `Pendapatan` dan `GDPperkapita` terendah digunakan untuk menentukan negara yang menjadi prioritas bantuan.
+The cluster with the lowest `Pendapatan` and `GDPperkapita` values was used to determine the countries that should be prioritized for assistance.
 
-10 negara yang direkomendasikan:
+The 10 recommended countries are:
 
-**Liberia, Niger, Central African Republic, Malawi, Eritrea, Guinea-Bissau, Afghanistan, Rwanda, Burkina Faso, dan Nepal.**
+**Liberia, Niger, Central African Republic, Malawi, Eritrea, Guinea-Bissau, Afghanistan, Rwanda, Burkina Faso, and Nepal.**
 
 ## 🛠️ Tools & Technologies
 
